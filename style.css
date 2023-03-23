@@ -12,7 +12,7 @@
   justify-content: center;
 }
 .converter-body {
-  width: min(90%, 400px);
+  width: min(95%, 400px);
   padding: 45px;
   background-color: rgba(255, 255, 255, 0.7);
   backdrop-filter: blur(20px);
@@ -50,7 +50,7 @@
 }
 .degree-celsius,
 .fahrenheit-celsius {
-  width: 3rem;
+  width: 2.5rem;
   padding: 10px;
   border: none;
   outline: none;
